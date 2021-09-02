@@ -1,18 +1,13 @@
 ---
 title: "Fall 2021 Workshop"
 author: "Meredith Brown"
-output:
-   html_document:
-    theme: cerulean
-    toc: true
-    toc_depth: 3
-    toc_float: 
-      collapsed: true
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
 library(tidyverse)
 ```
+
 
 ## Introduction
 
